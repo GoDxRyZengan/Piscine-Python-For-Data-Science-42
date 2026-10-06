@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: ft_package
+Version: 0.0.1
+Summary: A sample test package
+Author-email: hucoulon <hucoulon@student.42.fr>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/eagle/ft_package
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# ft_package
+
+A simple Python package created for the Python for Data Science training project.
+
+## Description
+
+`ft_package` provides a simple function called `count_in_list`.
+
+It returns the number of occurrences of a given value inside a list.
+
+## Installation
+
+After building the package, it can be installed with:
+
+```bash
+pip install ./dist/ft_package-0.0.1.tar.gz
+pip install ./dist/ft_package-0.0.1-py3-none-any.whl
