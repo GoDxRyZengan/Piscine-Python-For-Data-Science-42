@@ -4,6 +4,8 @@ from pimp_image import ft_red
 from pimp_image import ft_green
 from pimp_image import ft_blue
 from pimp_image import ft_grey
+from matplotlib import pyplot as plt
+
 ...
 array = ft_load("landscape.jpg")
 ft_invert(array)
